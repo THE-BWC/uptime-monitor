@@ -6,14 +6,14 @@ sites:
   - name: the-bwc.com
     url: https://the-bwc.com
   - name: vb5.the-bwc.com
-    url: https://vb5.the-bwc.com
+    url: https://vb5.the-bwc.com/forum/index.php
   - name: discord.the-bwc.com
     url: https://discord.the-bwc.com
   - name: the-bwc.com - IPv6
     url: https://the-bwc.com
     ipv6: true
   - name: vb5.the-bwc.com - IPv6
-    url: https://vb5.the-bwc.com
+    url: https://vb5.the-bwc.com/forum/index.php
     ipv6: true
   - name: discord.the-bwc.com - IPv6
     url: https://discord.the-bwc.com
