@@ -12,10 +12,10 @@ sites:
   - name: the-bwc.com - IPv6
     url: https://the-bwc.com
     ipv6: true
-  - name: vb5.the-bwc.com
+  - name: vb5.the-bwc.com - IPv6
     url: https://vb5.the-bwc.com
     ipv6: true
-  - name: discord.the-bwc.com
+  - name: discord.the-bwc.com - IPv6
     url: https://discord.the-bwc.com
     ipv6: true
 
