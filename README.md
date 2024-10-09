@@ -1,4 +1,4 @@
-# [📈 Live Status](https://the-bwc.github.io/uptime-monitor): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://status.the-bwc.com): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [Black Widow Company](https://the-bwc.com), powered by [Upptime](https://github.com/upptime/upptime).
 
@@ -25,7 +25,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://the-bwc.github.io/uptime-monitor)
+[**Visit our status website →**](https://status.the-bwc.com)
 
 ## 📄 License
 
