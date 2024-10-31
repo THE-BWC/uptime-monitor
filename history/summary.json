@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/the-bwc.com.ico",
     "slug": "the-bwc-com",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 316,
-    "timeDay": 358,
-    "timeWeek": 337,
-    "timeMonth": 316,
-    "timeYear": 316,
-    "dailyMinutesDown": {
-      "2024-10-30": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 320,
+    "timeDay": 466,
+    "timeWeek": 324,
+    "timeMonth": 320,
+    "timeYear": 320,
+    "dailyMinutesDown": {}
   },
   {
     "name": "vb5.the-bwc.com",
@@ -25,18 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/vb5.the-bwc.com.ico",
     "slug": "vb5-the-bwc-com",
     "status": "up",
-    "uptime": "99.82%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
-    "time": 316,
-    "timeDay": 362,
-    "timeWeek": 342,
-    "timeMonth": 316,
-    "timeYear": 316,
+    "uptime": "99.84%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
+    "time": 317,
+    "timeDay": 425,
+    "timeWeek": 330,
+    "timeMonth": 317,
+    "timeYear": 317,
     "dailyMinutesDown": {
-      "2024-10-30": 6,
       "2024-10-08": 50
     }
   },
@@ -46,19 +43,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/discord.the-bwc.com.ico",
     "slug": "discord-the-bwc-com",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 615,
-    "timeDay": 758,
-    "timeWeek": 693,
+    "timeDay": 752,
+    "timeWeek": 645,
     "timeMonth": 615,
     "timeYear": 615,
-    "dailyMinutesDown": {
-      "2024-10-30": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "the-bwc.com - IPv6",
@@ -71,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 254,
-    "timeDay": 136,
-    "timeWeek": 250,
-    "timeMonth": 254,
-    "timeYear": 254,
+    "time": 259,
+    "timeDay": 396,
+    "timeWeek": 246,
+    "timeMonth": 259,
+    "timeYear": 259,
     "dailyMinutesDown": {}
   },
   {
@@ -89,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.87%",
-    "time": 246,
-    "timeDay": 193,
-    "timeWeek": 260,
-    "timeMonth": 246,
-    "timeYear": 246,
+    "time": 255,
+    "timeDay": 474,
+    "timeWeek": 271,
+    "timeMonth": 255,
+    "timeYear": 255,
     "dailyMinutesDown": {
       "2024-10-08": 42
     }
@@ -109,11 +104,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 347,
-    "timeDay": 412,
-    "timeWeek": 351,
-    "timeMonth": 347,
-    "timeYear": 347,
+    "time": 348,
+    "timeDay": 382,
+    "timeWeek": 339,
+    "timeMonth": 348,
+    "timeYear": 348,
     "dailyMinutesDown": {}
   }
 ]
