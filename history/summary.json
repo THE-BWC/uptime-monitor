@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 314,
-    "timeDay": 238,
-    "timeWeek": 325,
-    "timeMonth": 302,
-    "timeYear": 314,
+    "time": 318,
+    "timeDay": 512,
+    "timeWeek": 340,
+    "timeMonth": 311,
+    "timeYear": 318,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 315,
-    "timeDay": 290,
-    "timeWeek": 323,
-    "timeMonth": 314,
-    "timeYear": 315,
+    "time": 319,
+    "timeDay": 446,
+    "timeWeek": 331,
+    "timeMonth": 321,
+    "timeYear": 319,
     "dailyMinutesDown": {
       "2024-10-08": 50
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 593,
-    "timeDay": 371,
-    "timeWeek": 521,
-    "timeMonth": 599,
-    "timeYear": 593,
+    "time": 592,
+    "timeDay": 565,
+    "timeWeek": 512,
+    "timeMonth": 604,
+    "timeYear": 592,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 251,
-    "timeDay": 134,
-    "timeWeek": 250,
-    "timeMonth": 237,
-    "timeYear": 251,
+    "time": 256,
+    "timeDay": 430,
+    "timeWeek": 258,
+    "timeMonth": 247,
+    "timeYear": 256,
     "dailyMinutesDown": {}
   },
   {
@@ -79,16 +79,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/vb5.the-bwc.com.ico",
     "slug": "vb5-the-bwc-com-i-pv6",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.91%",
-    "time": 251,
-    "timeDay": 182,
-    "timeWeek": 252,
-    "timeMonth": 250,
-    "timeYear": 251,
+    "uptimeYear": "99.92%",
+    "time": 254,
+    "timeDay": 369,
+    "timeWeek": 258,
+    "timeMonth": 256,
+    "timeYear": 254,
     "dailyMinutesDown": {
       "2024-10-08": 42
     }
@@ -104,11 +104,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 338,
-    "timeDay": 287,
-    "timeWeek": 326,
-    "timeMonth": 334,
-    "timeYear": 338,
+    "time": 343,
+    "timeDay": 499,
+    "timeWeek": 344,
+    "timeMonth": 342,
+    "timeYear": 343,
     "dailyMinutesDown": {}
   }
 ]
