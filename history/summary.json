@@ -6,17 +6,16 @@
     "slug": "the-bwc-com",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 286,
-    "timeDay": 314,
-    "timeWeek": 376,
-    "timeMonth": 322,
+    "timeDay": 200,
+    "timeWeek": 355,
+    "timeMonth": 316,
     "timeYear": 286,
     "dailyMinutesDown": {
-      "2025-02-24": 9,
       "2024-12-16": 15
     }
   },
@@ -27,17 +26,16 @@
     "slug": "vb5-the-bwc-com",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 430,
-    "timeDay": 372,
-    "timeWeek": 374,
-    "timeMonth": 305,
-    "timeYear": 430,
+    "time": 429,
+    "timeDay": 290,
+    "timeWeek": 357,
+    "timeMonth": 306,
+    "timeYear": 429,
     "dailyMinutesDown": {
-      "2025-02-24": 9,
       "2024-10-08": 50
     }
   },
@@ -48,18 +46,16 @@
     "slug": "discord-the-bwc-com",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 579,
-    "timeDay": 458,
-    "timeWeek": 550,
-    "timeMonth": 583,
+    "timeDay": 347,
+    "timeWeek": 542,
+    "timeMonth": 582,
     "timeYear": 579,
-    "dailyMinutesDown": {
-      "2025-02-24": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "the-bwc.com - IPv6",
@@ -68,18 +64,16 @@
     "slug": "the-bwc-com-i-pv6",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 221,
-    "timeDay": 197,
-    "timeWeek": 301,
-    "timeMonth": 242,
+    "timeDay": 104,
+    "timeWeek": 275,
+    "timeMonth": 235,
     "timeYear": 221,
-    "dailyMinutesDown": {
-      "2025-02-24": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "vb5.the-bwc.com - IPv6",
@@ -87,18 +81,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/vb5.the-bwc.com.ico",
     "slug": "vb5-the-bwc-com-i-pv6",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.97%",
-    "time": 236,
-    "timeDay": 203,
-    "timeWeek": 277,
-    "timeMonth": 244,
-    "timeYear": 236,
+    "uptime": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.98%",
+    "time": 235,
+    "timeDay": 125,
+    "timeWeek": 259,
+    "timeMonth": 240,
+    "timeYear": 235,
     "dailyMinutesDown": {
-      "2025-02-24": 9,
       "2024-10-08": 42
     }
   },
@@ -109,17 +102,15 @@
     "slug": "discord-the-bwc-com-i-pv6",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 322,
-    "timeDay": 239,
-    "timeWeek": 338,
-    "timeMonth": 334,
+    "timeDay": 187,
+    "timeWeek": 330,
+    "timeMonth": 333,
     "timeYear": 322,
-    "dailyMinutesDown": {
-      "2025-02-24": 9
-    }
+    "dailyMinutesDown": {}
   }
 ]
