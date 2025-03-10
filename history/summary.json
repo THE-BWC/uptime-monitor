@@ -4,11 +4,11 @@
     "url": "https://the-bwc.com",
     "icon": "https://icons.duckduckgo.com/ip3/the-bwc.com.ico",
     "slug": "the-bwc-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 286,
     "timeDay": 249,
@@ -16,6 +16,7 @@
     "timeMonth": 303,
     "timeYear": 286,
     "dailyMinutesDown": {
+      "2025-03-10": 2,
       "2024-12-16": 15
     }
   },
@@ -62,10 +63,10 @@
     "url": "https://the-bwc.com",
     "icon": "https://icons.duckduckgo.com/ip3/the-bwc.com.ico",
     "slug": "the-bwc-com-i-pv6",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 221,
@@ -73,7 +74,9 @@
     "timeWeek": 254,
     "timeMonth": 234,
     "timeYear": 221,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-10": 1
+    }
   },
   {
     "name": "vb5.the-bwc.com - IPv6",
