@@ -44,9 +44,9 @@
     "url": "https://discord.the-bwc.com",
     "icon": "https://icons.duckduckgo.com/ip3/discord.the-bwc.com.ico",
     "slug": "discord-the-bwc-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -55,7 +55,9 @@
     "timeWeek": 516,
     "timeMonth": 544,
     "timeYear": 575,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-23": 0
+    }
   },
   {
     "name": "the-bwc.com - IPv6",
