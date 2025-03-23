@@ -44,19 +44,19 @@
     "url": "https://discord.the-bwc.com",
     "icon": "https://icons.duckduckgo.com/ip3/discord.the-bwc.com.ico",
     "slug": "discord-the-bwc-com",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 575,
-    "timeDay": 341,
-    "timeWeek": 516,
-    "timeMonth": 544,
-    "timeYear": 575,
+    "time": 576,
+    "timeDay": 516,
+    "timeWeek": 538,
+    "timeMonth": 549,
+    "timeYear": 576,
     "dailyMinutesDown": {
-      "2025-03-23": 0
+      "2025-03-23": 5
     }
   },
   {
