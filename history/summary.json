@@ -62,9 +62,9 @@
     "url": "https://the-bwc.com",
     "icon": "https://icons.duckduckgo.com/ip3/the-bwc.com.ico",
     "slug": "the-bwc-com-i-pv6",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -73,7 +73,9 @@
     "timeWeek": 225,
     "timeMonth": 242,
     "timeYear": 224,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-15": 0
+    }
   },
   {
     "name": "vb5.the-bwc.com - IPv6",
