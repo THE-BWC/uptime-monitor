@@ -62,19 +62,19 @@
     "url": "https://the-bwc.com",
     "icon": "https://icons.duckduckgo.com/ip3/the-bwc.com.ico",
     "slug": "the-bwc-com-i-pv6",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 222,
-    "timeDay": 164,
-    "timeWeek": 187,
-    "timeMonth": 232,
-    "timeYear": 222,
+    "time": 225,
+    "timeDay": 458,
+    "timeWeek": 250,
+    "timeMonth": 248,
+    "timeYear": 225,
     "dailyMinutesDown": {
-      "2025-04-22": 0
+      "2025-04-22": 5
     }
   },
   {
