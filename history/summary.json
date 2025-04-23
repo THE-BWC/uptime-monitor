@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 350,
-    "timeDay": 255,
-    "timeWeek": 261,
-    "timeMonth": 310,
+    "timeDay": 420,
+    "timeWeek": 291,
+    "timeMonth": 316,
     "timeYear": 350,
     "dailyMinutesDown": {
       "2024-12-16": 15
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 397,
-    "timeDay": 303,
-    "timeWeek": 291,
-    "timeMonth": 332,
+    "timeDay": 443,
+    "timeWeek": 319,
+    "timeMonth": 340,
     "timeYear": 397,
     "dailyMinutesDown": {
       "2024-10-08": 50
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 582,
-    "timeDay": 939,
-    "timeWeek": 624,
-    "timeMonth": 613,
-    "timeYear": 582,
+    "time": 583,
+    "timeDay": 725,
+    "timeWeek": 650,
+    "timeMonth": 625,
+    "timeYear": 583,
     "dailyMinutesDown": {}
   },
   {
@@ -64,18 +64,16 @@
     "slug": "the-bwc-com-i-pv6",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 225,
-    "timeDay": 458,
-    "timeWeek": 250,
-    "timeMonth": 248,
-    "timeYear": 225,
-    "dailyMinutesDown": {
-      "2025-04-22": 5
-    }
+    "time": 226,
+    "timeDay": 573,
+    "timeWeek": 291,
+    "timeMonth": 255,
+    "timeYear": 226,
+    "dailyMinutesDown": {}
   },
   {
     "name": "vb5.the-bwc.com - IPv6",
@@ -88,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 239,
-    "timeDay": 223,
-    "timeWeek": 225,
-    "timeMonth": 261,
-    "timeYear": 239,
+    "time": 240,
+    "timeDay": 348,
+    "timeWeek": 243,
+    "timeMonth": 266,
+    "timeYear": 240,
     "dailyMinutesDown": {
       "2024-10-08": 42
     }
@@ -109,9 +107,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 328,
-    "timeDay": 314,
-    "timeWeek": 301,
-    "timeMonth": 352,
+    "timeDay": 405,
+    "timeWeek": 317,
+    "timeMonth": 358,
     "timeYear": 328,
     "dailyMinutesDown": {}
   }
