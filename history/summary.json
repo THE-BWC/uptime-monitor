@@ -4,10 +4,10 @@
     "url": "https://widowmakers.org",
     "icon": "https://icons.duckduckgo.com/ip3/widowmakers.org.ico",
     "slug": "widowmakers-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 795,
@@ -15,7 +15,9 @@
     "timeWeek": 654,
     "timeMonth": 776,
     "timeYear": 795,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-25": 2
+    }
   },
   {
     "name": "vb5.widowmakers.org",
@@ -58,9 +60,9 @@
     "url": "https://widowmakers.org",
     "icon": "https://icons.duckduckgo.com/ip3/widowmakers.org.ico",
     "slug": "widowmakers-org-i-pv6",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +71,9 @@
     "timeWeek": 584,
     "timeMonth": 707,
     "timeYear": 668,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-25": 0
+    }
   },
   {
     "name": "vb5.widowmakers.org - IPv6",
