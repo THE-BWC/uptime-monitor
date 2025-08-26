@@ -22,19 +22,19 @@
     "url": "https://vb5.widowmakers.org/forum/index.php",
     "icon": "https://icons.duckduckgo.com/ip3/vb5.widowmakers.org.ico",
     "slug": "vb5-widowmakers-org",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 714,
-    "timeDay": 600,
-    "timeWeek": 644,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 715,
+    "timeDay": 683,
+    "timeWeek": 659,
     "timeMonth": 738,
-    "timeYear": 714,
+    "timeYear": 715,
     "dailyMinutesDown": {
-      "2025-08-26": 0
+      "2025-08-26": 9
     }
   },
   {
