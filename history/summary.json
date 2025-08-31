@@ -76,9 +76,9 @@
     "url": "https://vb5.widowmakers.org/forum/index.php",
     "icon": "https://icons.duckduckgo.com/ip3/vb5.widowmakers.org.ico",
     "slug": "vb5-widowmakers-org-i-pv6",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,7 +87,9 @@
     "timeWeek": 948,
     "timeMonth": 663,
     "timeYear": 586,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-31": 0
+    }
   },
   {
     "name": "discord.widowmakers.org - IPv6",
