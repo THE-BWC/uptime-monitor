@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 829,
-    "timeDay": 783,
-    "timeWeek": 1186,
+    "time": 828,
+    "timeDay": 701,
+    "timeWeek": 1218,
     "timeMonth": 872,
-    "timeYear": 829,
+    "timeYear": 828,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 715,
-    "timeDay": 807,
-    "timeWeek": 703,
-    "timeMonth": 711,
-    "timeYear": 715,
+    "time": 714,
+    "timeDay": 644,
+    "timeWeek": 698,
+    "timeMonth": 715,
+    "timeYear": 714,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 969,
-    "timeDay": 1052,
-    "timeWeek": 990,
-    "timeMonth": 955,
-    "timeYear": 969,
+    "time": 970,
+    "timeDay": 993,
+    "timeWeek": 992,
+    "timeMonth": 952,
+    "timeYear": 970,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 869,
-    "timeDay": 21787,
-    "timeWeek": 3218,
-    "timeMonth": 1327,
-    "timeYear": 869,
+    "time": 866,
+    "timeDay": 508,
+    "timeWeek": 3217,
+    "timeMonth": 1324,
+    "timeYear": 866,
     "dailyMinutesDown": {}
   },
   {
@@ -78,18 +78,16 @@
     "slug": "vb5-widowmakers-org-i-pv6",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 586,
-    "timeDay": 614,
-    "timeWeek": 907,
-    "timeMonth": 662,
-    "timeYear": 586,
-    "dailyMinutesDown": {
-      "2025-08-31": 5
-    }
+    "time": 585,
+    "timeDay": 562,
+    "timeWeek": 901,
+    "timeMonth": 663,
+    "timeYear": 585,
+    "dailyMinutesDown": {}
   },
   {
     "name": "discord.widowmakers.org - IPv6",
@@ -102,11 +100,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 626,
-    "timeDay": 748,
-    "timeWeek": 623,
-    "timeMonth": 642,
-    "timeYear": 626,
+    "time": 625,
+    "timeDay": 558,
+    "timeWeek": 617,
+    "timeMonth": 644,
+    "timeYear": 625,
     "dailyMinutesDown": {}
   }
 ]
