@@ -4,9 +4,9 @@
     "url": "https://widowmakers.org",
     "icon": "https://icons.duckduckgo.com/ip3/widowmakers.org.ico",
     "slug": "widowmakers-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 702,
     "timeMonth": 705,
     "timeYear": 805,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-26": 0
+    }
   },
   {
     "name": "vb5.widowmakers.org",
