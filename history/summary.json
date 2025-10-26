@@ -4,19 +4,19 @@
     "url": "https://widowmakers.org",
     "icon": "https://icons.duckduckgo.com/ip3/widowmakers.org.ico",
     "slug": "widowmakers-org",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 805,
-    "timeDay": 939,
-    "timeWeek": 702,
-    "timeMonth": 705,
-    "timeYear": 805,
+    "time": 804,
+    "timeDay": 799,
+    "timeWeek": 697,
+    "timeMonth": 704,
+    "timeYear": 804,
     "dailyMinutesDown": {
-      "2025-10-26": 0
+      "2025-10-26": 5
     }
   },
   {
