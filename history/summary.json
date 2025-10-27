@@ -78,19 +78,19 @@
     "url": "https://vb5.widowmakers.org/forum/index.php",
     "icon": "https://icons.duckduckgo.com/ip3/vb5.widowmakers.org.ico",
     "slug": "vb5-widowmakers-org-i-pv6",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.71%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 566,
-    "timeDay": 461,
-    "timeWeek": 480,
-    "timeMonth": 536,
-    "timeYear": 566,
+    "time": 565,
+    "timeDay": 460,
+    "timeWeek": 477,
+    "timeMonth": 533,
+    "timeYear": 565,
     "dailyMinutesDown": {
-      "2025-10-27": 0
+      "2025-10-27": 4
     }
   },
   {
