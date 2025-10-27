@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 802,
-    "timeDay": 603,
+    "timeDay": 548,
     "timeWeek": 682,
     "timeMonth": 694,
     "timeYear": 802,
@@ -67,7 +67,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 762,
-    "timeDay": 615,
+    "timeDay": 521,
     "timeWeek": 552,
     "timeMonth": 594,
     "timeYear": 762,
@@ -78,9 +78,9 @@
     "url": "https://vb5.widowmakers.org/forum/index.php",
     "icon": "https://icons.duckduckgo.com/ip3/vb5.widowmakers.org.ico",
     "slug": "vb5-widowmakers-org-i-pv6",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -89,7 +89,9 @@
     "timeWeek": 480,
     "timeMonth": 536,
     "timeYear": 566,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-27": 0
+    }
   },
   {
     "name": "discord.widowmakers.org - IPv6",
