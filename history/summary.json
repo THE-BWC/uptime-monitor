@@ -6,9 +6,9 @@
     "slug": "widowmakers-org",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 801,
     "timeDay": 620,
@@ -16,7 +16,7 @@
     "timeMonth": 686,
     "timeYear": 801,
     "dailyMinutesDown": {
-      "2025-10-28": 2
+      "2025-10-28": 3
     }
   },
   {
@@ -64,8 +64,8 @@
     "slug": "widowmakers-org-i-pv6",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 759,
@@ -74,7 +74,7 @@
     "timeMonth": 581,
     "timeYear": 759,
     "dailyMinutesDown": {
-      "2025-10-28": 0
+      "2025-10-28": 2
     }
   },
   {
