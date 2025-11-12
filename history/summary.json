@@ -44,10 +44,10 @@
     "url": "https://discord.widowmakers.org",
     "icon": "https://icons.duckduckgo.com/ip3/discord.widowmakers.org.ico",
     "slug": "discord-widowmakers-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1028,
@@ -55,7 +55,9 @@
     "timeWeek": 1016,
     "timeMonth": 1232,
     "timeYear": 1028,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-12": 2
+    }
   },
   {
     "name": "widowmakers.org - IPv6",
@@ -100,9 +102,9 @@
     "url": "https://discord.widowmakers.org",
     "icon": "https://icons.duckduckgo.com/ip3/discord.widowmakers.org.ico",
     "slug": "discord-widowmakers-org-i-pv6",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -111,6 +113,8 @@
     "timeWeek": 657,
     "timeMonth": 625,
     "timeYear": 635,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-12": 0
+    }
   }
 ]
