@@ -6,9 +6,9 @@
     "slug": "widowmakers-org",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 790,
     "timeDay": 515,
@@ -16,7 +16,7 @@
     "timeMonth": 702,
     "timeYear": 790,
     "dailyMinutesDown": {
-      "2025-11-18": 0,
+      "2025-11-18": 7,
       "2025-10-28": 23
     }
   },
@@ -27,9 +27,9 @@
     "slug": "vb5-widowmakers-org",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 834,
     "timeDay": 486,
@@ -37,7 +37,7 @@
     "timeMonth": 653,
     "timeYear": 834,
     "dailyMinutesDown": {
-      "2025-11-18": 0,
+      "2025-11-18": 7,
       "2025-10-27": 29
     }
   },
@@ -46,36 +46,39 @@
     "url": "https://discord.widowmakers.org",
     "icon": "https://icons.duckduckgo.com/ip3/discord.widowmakers.org.ico",
     "slug": "discord-widowmakers-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1027,
-    "timeDay": 984,
-    "timeWeek": 1004,
-    "timeMonth": 1189,
-    "timeYear": 1027,
-    "dailyMinutesDown": {}
+    "time": 1024,
+    "timeDay": 549,
+    "timeWeek": 905,
+    "timeMonth": 1156,
+    "timeYear": 1024,
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "widowmakers.org - IPv6",
     "url": "https://widowmakers.org",
     "icon": "https://icons.duckduckgo.com/ip3/widowmakers.org.ico",
     "slug": "widowmakers-org-i-pv6",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
-    "time": 737,
-    "timeDay": 623,
-    "timeWeek": 675,
-    "timeMonth": 557,
-    "timeYear": 737,
+    "time": 733,
+    "timeDay": 326,
+    "timeWeek": 594,
+    "timeMonth": 541,
+    "timeYear": 733,
     "dailyMinutesDown": {
+      "2025-11-18": 0,
       "2025-10-28": 22
     }
   },
@@ -86,9 +89,9 @@
     "slug": "vb5-widowmakers-org-i-pv6",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 566,
     "timeDay": 708,
@@ -96,7 +99,7 @@
     "timeMonth": 546,
     "timeYear": 566,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 7
     }
   },
   {
@@ -104,17 +107,19 @@
     "url": "https://discord.widowmakers.org",
     "icon": "https://icons.duckduckgo.com/ip3/discord.widowmakers.org.ico",
     "slug": "discord-widowmakers-org-i-pv6",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 638,
-    "timeDay": 510,
-    "timeWeek": 686,
-    "timeMonth": 651,
-    "timeYear": 638,
-    "dailyMinutesDown": {}
+    "time": 634,
+    "timeDay": 390,
+    "timeWeek": 626,
+    "timeMonth": 634,
+    "timeYear": 634,
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   }
 ]
