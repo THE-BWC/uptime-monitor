@@ -1,7 +1,7 @@
 url: https://widowmakers.org
-status: up
-code: 200
-responseTime: 544
-lastUpdated: 2025-11-18T14:40:19.978Z
+status: down
+code: 500
+responseTime: 92
+lastUpdated: 2025-11-18T15:05:45.306Z
 startTime: 2025-05-23T12:32:31.850Z
 generator: Upptime <https://github.com/upptime/upptime>
