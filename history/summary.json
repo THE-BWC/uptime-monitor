@@ -25,17 +25,17 @@
     "url": "https://vb5.widowmakers.org/forum/index.php",
     "icon": "https://icons.duckduckgo.com/ip3/vb5.widowmakers.org.ico",
     "slug": "vb5-widowmakers-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "90.52%",
-    "uptimeWeek": "98.65%",
+    "uptimeDay": "90.51%",
+    "uptimeWeek": "98.64%",
     "uptimeMonth": "99.62%",
     "uptimeYear": "99.94%",
-    "time": 823,
-    "timeDay": 459,
-    "timeWeek": 577,
-    "timeMonth": 626,
-    "timeYear": 823,
+    "time": 820,
+    "timeDay": 434,
+    "timeWeek": 554,
+    "timeMonth": 616,
+    "timeYear": 820,
     "dailyMinutesDown": {
       "2025-11-18": 137,
       "2025-10-27": 29
@@ -48,9 +48,9 @@
     "slug": "discord-widowmakers-org",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "88.73%",
-    "uptimeWeek": "98.39%",
-    "uptimeMonth": "99.63%",
+    "uptimeDay": "89.73%",
+    "uptimeWeek": "98.53%",
+    "uptimeMonth": "99.66%",
     "uptimeYear": "99.94%",
     "time": 1013,
     "timeDay": 651,
@@ -58,7 +58,7 @@
     "timeMonth": 1095,
     "timeYear": 1013,
     "dailyMinutesDown": {
-      "2025-11-18": 161
+      "2025-11-18": 147
     }
   },
   {
@@ -66,19 +66,19 @@
     "url": "https://widowmakers.org",
     "icon": "https://icons.duckduckgo.com/ip3/widowmakers.org.ico",
     "slug": "widowmakers-org-i-pv6",
-    "status": "down",
+    "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "91.17%",
-    "uptimeWeek": "98.74%",
-    "uptimeMonth": "99.66%",
+    "uptimeDay": "90.48%",
+    "uptimeWeek": "98.64%",
+    "uptimeMonth": "99.64%",
     "uptimeYear": "99.94%",
-    "time": 745,
-    "timeDay": 914,
-    "timeWeek": 815,
-    "timeMonth": 627,
-    "timeYear": 745,
+    "time": 744,
+    "timeDay": 868,
+    "timeWeek": 794,
+    "timeMonth": 623,
+    "timeYear": 744,
     "dailyMinutesDown": {
-      "2025-11-18": 128,
+      "2025-11-18": 138,
       "2025-10-28": 22
     }
   },
@@ -109,9 +109,9 @@
     "slug": "discord-widowmakers-org-i-pv6",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "88.71%",
-    "uptimeWeek": "98.39%",
-    "uptimeMonth": "99.63%",
+    "uptimeDay": "89.72%",
+    "uptimeWeek": "98.53%",
+    "uptimeMonth": "99.66%",
     "uptimeYear": "99.94%",
     "time": 627,
     "timeDay": 365,
@@ -119,7 +119,7 @@
     "timeMonth": 598,
     "timeYear": 627,
     "dailyMinutesDown": {
-      "2025-11-18": 163
+      "2025-11-18": 149
     }
   }
 ]
