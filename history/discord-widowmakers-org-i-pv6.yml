@@ -1,7 +1,7 @@
 url: https://discord.widowmakers.org
-status: up
-code: 200
-responseTime: 599
-lastUpdated: 2026-06-25T23:31:16.396Z
+status: down
+code: 503
+responseTime: 24
+lastUpdated: 2026-06-26T20:56:44.014Z
 startTime: 2025-05-23T12:32:33.481Z
 generator: Upptime <https://github.com/upptime/upptime>
